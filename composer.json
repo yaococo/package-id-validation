@@ -1,0 +1,21 @@
+{
+    "name": "yaococo/id-card-validation",
+    "description": "身份证验证",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "coco",
+            "email": "xinguanxingmeng@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yaococo\\Validation": "src/"
+        }
+    }
+}
