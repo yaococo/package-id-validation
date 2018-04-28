@@ -1,5 +1,5 @@
 <?php
-namespace Yaococo\Validation\Libs;
+namespace Yaococo\Validation;
 
 class GB2260
 {

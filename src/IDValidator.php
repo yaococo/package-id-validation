@@ -1,5 +1,5 @@
 <?php
-namespace Yaococo\Validation\Libs;
+namespace Yaococo\Validation;
 
 class IDValidator {
 	private static $GB2260;
