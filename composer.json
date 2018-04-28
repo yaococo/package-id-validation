@@ -1,5 +1,5 @@
 {
-    "name": "yaococo/id-card-validation",
+    "name": "yaococo/package-id-validation",
     "description": "身份证验证",
     "type": "library",
     "license": "MIT",
