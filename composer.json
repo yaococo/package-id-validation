@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Yaococo\\Validation": "src/"
+            "Yaococo\\Validation\\": "src/"
         }
     }
 }
